@@ -6,13 +6,8 @@ A Recipe Generator app that allows users to browse ingredients, view recipes, an
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
+  
 ## Features
 
 - Browse a list of ingredients.
@@ -30,10 +25,3 @@ A Recipe Generator app that allows users to browse ingredients, view recipes, an
 - **Jest**: A testing framework for unit and integration tests.
 - **Shadcn**: Reusable components
 
-## Installation
-
-To get started with the Recipe Generator App, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<username>/<repo>.git
