@@ -1,6 +1,6 @@
 # Recipe Generator App
 
-A Recipe Generator app that allows users to browse ingredients, view recipes, and save their favorite recipes for later. This application utilizes TheMealDB API to fetch ingredient and recipe data.
+A Recipe Generator app that allows users to browse ingredients, view recipes, and save their favourite recipes for later. This application utilises TheMealDB API to fetch ingredient and recipe data.
 
 ## Table of Contents
 
